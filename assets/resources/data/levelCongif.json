@@ -1,0 +1,392 @@
+[
+    {
+        "level": 1,
+        "roleConfig" :  [
+            {
+                "name" : "gopher",
+                "probability" : 10
+            },            
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 75
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [20,40],
+        "speedUpTime" : 15,
+        "passScore" : 60
+    },
+    {
+        "level": 2,
+        "roleConfig" : [
+            {
+                "name" : "gopher",
+                "probability" : 8
+            },       
+            {
+                "name" : "workerGropher",
+                "probability" : 12
+            },     
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 65
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [30,60],
+        "speedUpTime" : 15,
+        "passScore" : 90
+    },
+    {
+        "level": 3,
+        "roleConfig" : [
+            {
+                "name" : "gopher",
+                "probability" : 2
+            },       
+            {
+                "name" : "workerGropher",
+                "probability" : 2
+            },     
+            {
+                "name" : "racerGopher",
+                "probability" : 6
+            },     
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 80
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [40,80],
+        "speedUpTime" : 15,
+        "passScore" : 120
+    },
+    {
+        "level": 4,
+        "roleConfig" : [
+            {
+                "name" : "workerGropher",
+                "probability" : 10
+            },
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 75
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [50,100],
+        "speedUpTime" : 15,
+        "passScore" : 150
+    },
+    {
+        "level": 5,
+        "roleConfig" : [
+            {
+                "name" : "workerGropher",
+                "probability" : 8
+            },            
+            {
+                "name" : "racerGopher",
+                "probability" : 12
+            },            
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 65
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [60,120],
+        "speedUpTime" : 15,
+        "passScore" : 180
+    },
+    {
+        "level": 6,
+        "roleConfig" : [
+            {
+                "name" : "workerGropher",
+                "probability" : 2
+            },            
+            {
+                "name" : "racerGopher",
+                "probability" : 2
+            }, 
+            {
+                "name" : "doctorGopher",
+                "probability" : 6
+            },             
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 80
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [70,140],
+        "speedUpTime" : 15,
+        "passScore" : 210
+    },
+    {
+        "level": 7,
+        "roleConfig" :  [           
+            {
+                "name" : "racerGopher",
+                "probability" : 2
+            }, 
+            {
+                "name" : "doctorGopher",
+                "probability" : 2
+            },             
+            {
+                "name" : "ninjaGopher",
+                "probability" : 6
+            }, 
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 80
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [80,160],
+        "speedUpTime" : 15,
+        "passScore" : 240
+    },
+    {
+        "level": 8, 
+        "roleConfig" : [           
+            {
+                "name" : "doctorGopher",
+                "probability" : 2
+            },             
+            {
+                "name" : "ninjaGopher",
+                "probability" : 2
+            }, 
+            {
+                "name" : "casualRabbitGopher",
+                "probability" : 6
+            }, 
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 80
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [90,180],
+        "speedUpTime" : 15,
+        "passScore" : 270
+    },
+    {
+        "level": 9,
+        "roleConfig" : [                      
+            {
+                "name" : "ninjaGopher",
+                "probability" : 2
+            }, 
+            {
+                "name" : "casualRabbitGopher",
+                "probability" : 2
+            }, 
+            {
+                "name" : "armoredGopher",
+                "probability" : 6
+            },  
+            {
+                "name" : "wood",
+                "probability" : 3
+            },            
+            {
+                "name" : "stone",
+                "probability" : 3
+            },            
+            {
+                "name" : "bomb",
+                "probability" : 3
+            },            
+            {
+                "name" : "coffeeRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "pinkRabbit",
+                "probability" : 3
+            },            
+            {
+                "name" : "empty",
+                "probability" : 80
+            }
+        ],
+        "speed" : 2,
+        "speedUp" : 4,
+        "accelerationZone" : [100,200],
+        "speedUpTime" : 15,
+        "passScore" : 300
+    }
+]

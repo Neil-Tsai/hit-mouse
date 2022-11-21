@@ -1,0 +1,72 @@
+{
+    "gopher" : {
+        "type": 1,
+        "hp" : 1,
+        "score" : 1
+    },
+    "workerGropher" : {
+        "type": 1,
+        "hp" : 2,
+        "score" : 1
+    },
+    "racerGopher" : {
+        "type": 1,
+        "hp" : 3,
+        "score" : 2
+    },
+    "armoredGopher" : {
+        "type": 1,
+        "hp" : 4,
+        "score" : 3
+    },
+    "ninjaGopher" : {
+        "type": 1,
+        "hp" : 1,
+        "score" : 1
+    },
+    "smallNinjaGopher" : {
+        "type": 1,
+        "hp" : 1,
+        "score" : 1
+    },
+    "doctorGopher" : {
+        "type": 1,
+        "hp" : 1,
+        "score" : 1
+    },
+    "CrossDressedRabbitGopher" : {
+        "type": 1,
+        "hp" : 1,
+        "score" : 1
+    },
+    "wood": {
+        "type": 2,
+        "hp" : 0,
+        "score" : 0
+    },
+    "Stone": {
+        "type": 2,
+        "hp" : 0,
+        "score" : 0
+    },
+    "bomb": {
+        "type": 2,
+        "hp" : 0,
+        "score" : 0
+    },
+    "coffeeRabbit": {
+        "type": 2,
+        "hp" : 0,
+        "score" : 0
+    },
+    "pinkRabbit": {
+        "type": 2,
+        "hp" : 0,
+        "score" : 0
+    },
+    "other": {
+        "type": 3,
+        "hp" : 0,
+        "score" : 0
+    }
+}

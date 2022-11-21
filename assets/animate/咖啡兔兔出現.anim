@@ -1,0 +1,155 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "咖啡兔兔出現",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.9,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "afe2b4be-8c9a-4d45-bc46-f1f4d79e8f2f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "400b2c0d-bfe2-4d12-be90-b5f8cc57ef76"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "493f5a36-1bd9-4385-921e-317a09f8d472"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "ab25c68e-12ef-4bdf-b5ee-c3119b42ffdb"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "4c6f28e9-81c8-4f28-a69b-555f4584e169"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "ab25c68e-12ef-4bdf-b5ee-c3119b42ffdb"
+            }
+          },
+          {
+            "frame": 1.3,
+            "value": {
+              "__uuid__": "493f5a36-1bd9-4385-921e-317a09f8d472"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "400b2c0d-bfe2-4d12-be90-b5f8cc57ef76"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "afe2b4be-8c9a-4d45-bc46-f1f4d79e8f2f"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "e51b4786-df18-4ce7-ab9f-a270a9cbe61d"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": -0.1,
+          "value": 255
+        },
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.1,
+          "value": 255
+        },
+        {
+          "frame": 0.2,
+          "value": 255
+        },
+        {
+          "frame": 0.3,
+          "value": 255
+        },
+        {
+          "frame": 0.4,
+          "value": 255
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        },
+        {
+          "frame": 0.6,
+          "value": 255
+        },
+        {
+          "frame": 0.7,
+          "value": 255
+        },
+        {
+          "frame": 0.9,
+          "value": 255
+        },
+        {
+          "frame": 1,
+          "value": 255
+        },
+        {
+          "frame": 1.3,
+          "value": 255
+        },
+        {
+          "frame": 1.4,
+          "value": 255
+        },
+        {
+          "frame": 1.5,
+          "value": 255
+        },
+        {
+          "frame": 1.6,
+          "value": 255
+        },
+        {
+          "frame": 1.7,
+          "value": 255
+        },
+        {
+          "frame": 1.8,
+          "value": 255
+        },
+        {
+          "frame": 1.9,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}
