@@ -1,2 +1,2 @@
 # hit-mouse
-cocos practise
+cocos 練習打地鼠
